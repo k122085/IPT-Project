@@ -1,0 +1,36 @@
+Idea 7: Code Update Service
+
+1) Service to keep all code base of multiple projects updated in the local machine.
+
+2) Must support SVN and git at least. 
+
+3) Allow user to specify projects and their SVN location and their local folders. 
+
+4) Provide notifications and allow user to specify schedule and other settings.
+
+
+Common Features
+Each group is expected to implement the following:
+
+1. Make a windows service 
+
+2. Make a Form based on web based GUI. 
+
+3. Use .NET remoting for IPC between the windows service and the GUI. 
+
+4. Use collection classes in a meaningful way. 
+
+5. Use XML and/or JSON for representation of some data 
+
+6. Use log4Net or an equivalent logging library to log errors, warning, information and debug messages.
+
+Deliverables
+
+1. Source code that follows coding standards and proper comments. 
+
+2. A document explaining the design of the application including software architecture, user interface, class
+design and database/storage design. 
+
+3. A document illustrating the use of the application – users’ guide. 
+
+4. Proof that bitbucket was used as source control system for the work (www.bitbucket.org)
